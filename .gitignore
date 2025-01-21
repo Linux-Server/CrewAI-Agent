@@ -1,0 +1,4 @@
+# Avod virtual environment
+venv*
+.env
+# Avod compiled files
