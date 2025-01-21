@@ -1,0 +1,1 @@
+I am sorry, but as an AI, I am unable to browse the internet in real-time, so I cannot provide the current menu for Ninive Restaurant. I recommend visiting the official website or contacting the restaurant directly to get the most accurate information about their menu.
