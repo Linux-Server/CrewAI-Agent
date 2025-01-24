@@ -16,7 +16,8 @@ def run():
     Run the crew.
     """
     inputs = {
-        'location': 'San Francisco',
+        'topic': 'AI LLMs',
+        'language': "malayalam"
     }
     Alacater().crew().kickoff(inputs=inputs)
 

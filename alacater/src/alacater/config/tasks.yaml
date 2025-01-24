@@ -1,14 +1,16 @@
-# restaurant_finding_task:
-#   description: >
-#     Find the best restaurants in the {location} area. If you unable to find any restaurants, please let the user know, politely.
-#   expected_output: >
-#     A list of the top 10 restaurants in the {location} area.
-#   agent: restaurant_finder
-
-
-ninive_menu_finding_task:
+writering_task:
   description: >
-    Find the menu of the Ninive restaurant. If you unable to find the menu, please let the user know, politely.
+   Conduct a thorough research about {topic}
+    Make sure you find any interesting and relevant information given
+    the current year is 2024.
   expected_output: >
-    The menu of the Ninive restaurant.
-  agent: ninive_menu_finder
+    Need a one paragraph explanation about {topic}
+  agent: content_writer
+
+
+translating_task:
+  description: >
+    Translate the article about {topic} into {language}
+  expected_output: >
+    A translated article about {topic} in {language}
+  agent: content_translator
